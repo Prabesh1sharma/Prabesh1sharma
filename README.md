@@ -1,4 +1,6 @@
 ### Hi there 👋
+'I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal
+I’m pursing to learn Python, Data Science and ML
 
 <!--
 **Prabesh1sharma/Prabesh1sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
