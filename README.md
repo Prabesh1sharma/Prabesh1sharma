@@ -47,11 +47,11 @@
 
 <p align="center">
     <a href="https://github.com/Prabesh1sharma">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabesh1sharma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabesh1sharma&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prabesh1sharma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prabesh1sharma&layout=compact&langs_count=8&theme=algolia"/>
  
 </a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabesh1sharma&theme=dark" alt="Prabesh1sharma" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabesh1sharma&theme=dark" alt="Prabesh1sharma" />
 </p>
 
 
