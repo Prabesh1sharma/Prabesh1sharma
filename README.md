@@ -23,7 +23,11 @@
             alt="cplusplus" width="40" height="40" /> </a>   <a href="https://www.w3.org/html/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>  <a href="https://pandas.pydata.org/" target="_blank"
+            alt="html5" width="40" height="40" /> </a> 
+    <a href="https://www.djangoproject.com/" target="_blank"
+        rel="noreferrer"> <img
+            src="https://nextsoftware.io/files/images/logos/main/django-logo.png"
+            alt="html5" width="40" height="40" /> </a><a href="https://pandas.pydata.org/" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
             alt="pandas" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
@@ -42,12 +46,13 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Prabesh1sharma&show_icons=true&locale=en&theme=radical"
-        alt="Prabesh1sharma", height="160", class="bgb" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Prabesh1sharma&show_icons=true&locale=en&layout=compact&theme=radical"
-        alt="Prabesh1sharma", height="160", class="bgb" />
+    <a href="https://github.com/Prabesh1sharma">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prabesh1sharma&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prabesh1sharma&layout=compact&langs_count=8&theme=algolia"/>
+ 
+</a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabesh1sharma&theme=dark" alt="Prabesh1sharma" />
 </p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabesh1sharma&theme=radical"
-        alt="Prabesh1sharma" class="bgb"></p>
+
 
