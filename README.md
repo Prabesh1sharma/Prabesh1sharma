@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Prabesh Sharma</h1>
-<h4 align="left">I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal</h4>
-<h4 align="left">I’m pursing to learn Python, Data Science, ML and AI</h4>
+<h4 align="left">A Computer Engineering Student from IOE, Purwanchal Campus (ERC)</h4>
+<h4 align="left">Exploring the realms of Python, Data Science, Machine Learning, and Artificial Intelligence</h4>
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/prabesh-sharma-a08719264/" target="_blank"><img align="left"
+    <a href="https://www.linkedin.com/in/prabesh-sharma06/" target="_blank"><img align="left"
             src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/900px-LinkedIn_logo_initials.png?20140125013055" alt="Prabesh1sharma" height="30"
             width="40" /></a>
     <a href="https://www.facebook.com/prabesh.sharma27/" target="_blank"><img align="center"
