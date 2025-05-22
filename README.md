@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Prabesh Sharma</h1>
-<h4 align="left">A Computer Engineering Student from IOE, Purwanchal Campus (ERC)</h4>
-<h4 align="left">Exploring the realms of Python, Data Science, Machine Learning, and Artificial Intelligence</h4>
+<h4 align="left">A Computer Engineer)</h4>
+<h4 align="left">Exploring the realms of Python, Data Science, Machine Learning, Artificial Intelligence and Software Engineer</h4>
 <img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 
